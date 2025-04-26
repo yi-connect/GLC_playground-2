@@ -16,18 +16,6 @@
 				"header": []
 			},
 			"response": []
-		},
-		{
-			"name": "New Request",
-			"id": "1122189-e4174f5f-a290-498a-ab41-b2575d557628",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
 		}
 	]
 }

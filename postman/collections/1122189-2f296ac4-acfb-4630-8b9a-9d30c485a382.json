@@ -19,7 +19,19 @@
 		},
 		{
 			"name": "New Request",
-			"id": "1122189-e4174f5f-a290-498a-ab41-b2575d557628",
+			"id": "1122189-4838b911-5e8b-4042-a532-2c2c96e5a408",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-7e5c548c-681e-4d39-9a1a-feec4afbab12",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},

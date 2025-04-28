@@ -1,13 +1,25 @@
 {
 	"info": {
 		"_postman_id": "1122189-39298260-01f3-4411-9d01-b637dbbf1749",
-		"name": "GLC MAIN 5",
+		"name": "GLC MAIN 7",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
 		{
-			"name": "New Request",
+			"name": "New Requestt 8",
 			"id": "1122189-385301dd-7f82-4125-b5c1-7cc4d3937d2b",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-5eafed1e-441f-4fa9-8ec3-96df6af9fd70",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},

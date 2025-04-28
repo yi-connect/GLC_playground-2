@@ -76,6 +76,18 @@
 				"header": []
 			},
 			"response": []
+		},
+		{
+			"name": "GLC",
+			"id": "1122189-be9404e7-2e3a-4fdc-b0c6-d6d6e8b420e8",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
 		}
 	]
 }

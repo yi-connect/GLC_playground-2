@@ -13,13 +13,31 @@
 			},
 			"request": {
 				"method": "GET",
-				"header": []
+				"header": [],
+				"url": {
+					"raw": ""
+				}
 			},
 			"response": []
 		},
 		{
 			"name": "New Request",
 			"id": "1122189-5eafed1e-441f-4fa9-8ec3-96df6af9fd70",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"id": "1122189-b2651a6b-eb51-4584-a2f9-d69c50c4939a",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
